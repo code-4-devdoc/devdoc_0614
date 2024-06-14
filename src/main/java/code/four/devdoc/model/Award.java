@@ -1,7 +1,7 @@
 package code.four.devdoc.model;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 public class Award {

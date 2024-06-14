@@ -2,7 +2,7 @@ package code.four.devdoc.model;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 public class PersonalInfo {
